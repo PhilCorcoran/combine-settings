@@ -1,0 +1,31 @@
+{
+  "name": "combine-settings",
+  "version": "0.1.0",
+  "description": "Combines two settings files. The second file overwrites any common attributes",
+  "keywords": [
+    "settings"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PhilCorcoran/combine-settings.git"
+  },
+  "bugs": {
+    "url": "http://github.com/PhilCorcoran/combine-settings/issues"
+  },
+  "author": {
+    "name": "Philip Corcoran",
+    "email": "philfcorcoran@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.19"
+  }
+}

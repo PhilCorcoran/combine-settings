@@ -1,0 +1,1 @@
+supervisor -p200 -w ..\lib,.,service service\app.js
